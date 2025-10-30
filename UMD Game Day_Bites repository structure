@@ -1,0 +1,15 @@
+README.md                     # Updated with class documentation and project overview
+
+src/
+├── game_day_functions.py     # Project 1 functions (nutrition calculations, data loading, etc.)
+├── food_item.py              # New class: represents a single food item
+├── vendor.py                 # New class: represents a stadium food vendor or stand
+├── nutrition_tracker.py      # New class: tracks user's selected foods and nutrition totals
+└── user.py                   # New class: represents a user with dietary preferences
+
+docs/
+├── class_design.md           # Architecture documentation (class diagrams, relationships)
+└── api_reference.md          # Class and method reference guide
+
+examples/
+└── basic_usage.py            # Usage demonstration (shows how classes interact)
